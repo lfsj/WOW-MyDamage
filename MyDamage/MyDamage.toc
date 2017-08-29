@@ -1,7 +1,7 @@
-## Interface: 70200
+## Interface: 70300
 ## Title: MyDamage
 ## Author: Luiz Fernando
-## Version: 1.2.2-70200
+## Version: 1.2.2-70300
 ## SavedVariablesPerCharacter: CharacterVar
 
 MyDamage.lua
