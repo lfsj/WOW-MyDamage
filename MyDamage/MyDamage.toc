@@ -1,4 +1,4 @@
-## Interface: 70300
+## Interface: 80000
 ## Title: MyDamage
 ## Author: Luiz Fernando
 ## Version: 1.2.2-70300
